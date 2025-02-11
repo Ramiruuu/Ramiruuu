@@ -10,9 +10,9 @@
 <ul>
   <li>🏫 BSIT, University of Science and Technology of Southern Philippines, Cagayan De Oro City </li>
   <li>🌱 Currently learning HTML, CSS, JavaScript, <strong>C, Python, Java </strong></li>
-  <li>⚒️ Currently Working on: <a href="https://github.com/Ramiruuu/Learning-HTML-CSS"><strong>PasswordSentinel</strong></a></li> 
+  <li>⚒️ Currently Working on: <a href="https://github.com/Ramiruuu/Learning-HTML-CSS"><strong>Learning HTML and CSS </strong></a></li> 
   <li>💬 Ask me about <strong>C, Python, HTML and CSS, Figma, Networking </strong></li>
-  <li>📫 How to reach me: <a href="mailto:johnlemargonzales@gmail.com">oclaritremar25@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:oclaritremar25@gmail.com">oclaritremar25@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1NTEWjaEGll3UfJCqa3J_6OZcm9KgJLQd?usp=sharing" target="_blank"> My Resume</a></li>
 </ul>
 
@@ -32,6 +32,9 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
+  <a href="https://www.instagram.com/lluv.ramiruuu/?igsh=ZnZqYXUyNm9qN25p#" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="height="30" width="40" />
+
   <a href="https://discord.gg/74jFFFgjNT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
@@ -40,14 +43,27 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 <p align="center">
   <h1>Languages & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,lua,cpp,git,figma,github,idea,kali,notion,ps,pr,pycharm,unreal,unity,godot,vscode,wordpress,blender,eclipse,linux,typescript,discord,gmail,php,  &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,figma,github,kali,pycharm,vscode,wordpress,linux,typescript,discord,gmail,php,  &perline=7" />
   </a>
 </p>
 
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
-<h1 align="center">PERSONAL HUB</h1>
+<h1 align="center">Random Shits</h1>
 
-<h4 align="center">If this part doesn't load, Refresh the page</h1>
+<h4 align="center">If this section doesn't load, just hit refresh and let's keep the energy flowing!</h1>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5DF70F&random=false&width=510&lines=%F0%9D%90%87%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%8E+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%92%F0%9D%90%88%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%91!;%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E+%F0%9D%90%AD%F0%9D%90%A8+%F0%9D%90%A6%F0%9D%90%B
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ramiruuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramiruuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ramiruuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiruuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compa
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ramiruuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
