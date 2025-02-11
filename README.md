@@ -51,6 +51,7 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 <h1 align="center">Random Shits</h1>
+<div align="center">
 
 <h4 align="center">If this section doesn't load, just hit refresh and let's keep the energy flowing!</h1>
 
