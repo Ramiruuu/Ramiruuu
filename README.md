@@ -1,4 +1,4 @@
-<h1 align="center">𝐈'𝐦 𝐑𝐞𝐦𝐚𝐫 𝐆𝐨𝐧𝐳𝐚𝐠𝐚 𝐎𝐜𝐥𝐚𝐫𝐢𝐭 (𝐚𝐤𝐚 𝐑𝐚𝐦𝐢𝐫𝐮𝐮𝐮)</h1>
+<h1 align="center">𝗥𝗮𝗺𝗶𝗿𝘂𝘂𝘂</h1>
 <h3 align="center">⚡ Forever Evolving in the World of IT ⚡</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
