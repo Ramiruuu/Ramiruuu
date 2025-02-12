@@ -24,9 +24,33 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 
 ## 🎯 Projects
 <ul> 
-  <li> <a href="https://github.com/Ramiruuu/TaskManagerGUI">📝 - <i> TaskManagerGUI</a>: The program allows users to create tasks with detailed descriptions, mark them as completed, and delete them as needed. Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress. </i>
-<li> <a href="https://github.com/Ramiruuu/Simple-Banking-System-">🏦 - <i> Simple Banking System</a>: A program that lets users check their balance, deposit money, withdraw funds (with a daily limit), and view transaction history, secured by PIN-based authentication. </i>
-<li> <a href="https://github.com/Ramiruuu/FinancialAppTracker">💰 - <i> Financial Tracker</a>: A JavaFX-based app for tracking income and expenses. It allows users to add transactions, categorize them as income or expense, and view a summary of total income, expenses, and balance. The data is displayed in a table with an easy-to-use interface. </i>
+  <li>  
+    <a href="https://github.com/Ramiruuu/TaskManagerGUI">📝 - <i>TaskManagerGUI</i></a>:  
+    <ul>
+      <li>The program allows users to create tasks with detailed descriptions.</li>  
+      <li>Users can mark tasks as completed and delete them as needed.</li>  
+      <li>Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress.</li>  
+    </ul>  
+  </li>  
+
+  <li>  
+    <a href="https://github.com/Ramiruuu/Simple-Banking-System-">🏦 - <i>Simple Banking System</i></a>:  
+    <ul>
+      <li>A program that lets users check their balance, deposit money, and withdraw funds (with a daily limit).</li>  
+      <li>Users can view their transaction history.</li>  
+      <li>Secured by PIN-based authentication for user protection.</li>  
+    </ul>  
+  </li>  
+
+  <li>  
+    <a href="https://github.com/Ramiruuu/FinancialAppTracker">💰 - <i>Financial Tracker</i></a>:  
+    <ul>
+      <li>A JavaFX-based app for tracking income and expenses.</li>  
+      <li>Users can add transactions and categorize them as income or expense.</li>  
+      <li>It provides a summary of total income, expenses, and balance.</li>  
+      <li>The data is displayed in a table with an easy-to-use interface.</li>  
+    </ul>  
+  </li>  
 </ul>
 
 ## 🔗 Connect with me:
