@@ -51,6 +51,14 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
       <li>The data is displayed in a table with an easy-to-use interface.</li>  
     </ul>  
   </li>  
+
+  <li>  
+    <a href="https://github.com/Ramiruuu/Cryptex-Vault">🔒 - <i>Cryptex Vault</i></a>:  
+    <ul>
+      <li>Cryptex Vault is a simple tool to protect your text and files by encrypting and decrypting them.</li>  
+      <li>It uses a secure encryption method to keep your data safe.</li>  
+    </ul>  
+  </li>  
 </ul>
 
 ## 🔗 Connect with me:
