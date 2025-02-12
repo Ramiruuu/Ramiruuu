@@ -26,6 +26,7 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 <ul> 
   <li> <a href="https://github.com/Ramiruuu/TaskManagerGUI">📝 - TaskManagerGUI</a>: The program allows users to create tasks with detailed descriptions, mark them as completed, and delete them as needed. Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress.
 <li> <a href="https://github.com/Ramiruuu/Simple-Banking-System-">🏦 - Simple Banking System</a>: A program that lets users check their balance, deposit money, withdraw funds (with a daily limit), and view transaction history, secured by PIN-based authentication.
+<li> <a href="https://github.com/Ramiruuu/FinancialAppTracker">💰 - Financial Tracker</a>: A JavaFX-based app for tracking income and expenses. It allows users to add transactions, categorize them as income or expense, and view a summary of total income, expenses, and balance. The data is displayed in a table with an easy-to-use interface.
 </ul>
 
 ## 🔗 Connect with me:
