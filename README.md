@@ -22,9 +22,9 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 
 <h4 align="center">Explore my journey, skills, and all the awesome projects I've worked on!</h4>
 
-## Projects
+## 🎯 Projects
 <ul> 
-  <li> <a href="https://github.com/Ramiruuu/TaskManagerGUI">TaskManagerGUI</a>: The program allows users to create tasks with detailed descriptions, mark them as completed, and delete them as needed. Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress.
+  <li> <a href="https://github.com/Ramiruuu/TaskManagerGUI">📝 - TaskManagerGUI</a>: The program allows users to create tasks with detailed descriptions, mark them as completed, and delete them as needed. Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress.
 </ul>
 
 ## 🔗 Connect with me:
