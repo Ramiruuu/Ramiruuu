@@ -96,14 +96,14 @@ Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oc
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@animixdotkom)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oclaritremar01@gmail.com)
 
-## 🚀 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramiruuu&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramiruuu&theme=monokai&no-frame=false&no-bg=true&margin-w=4)  
 
-## 🗨️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🗨️ Random Quote  
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-## 🙌 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ramiruuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🙌 Top Contributed Repo  
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramiruuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ramiruuu&icon=0&color=0)](https://visitcount.itsvg.in)
