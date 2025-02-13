@@ -11,7 +11,7 @@
   <li>🧩 BSIT, University of Science and Technology of Southern Philippines, Cagayan De Oro City </li>
   <li>🌱 Currently learning <strong> HTML, CSS, JavaScript, <strong>C, Python, Java </strong></li>
   <li>🔥 Currently Working on: <a href="https://github.com/Ramiruuu/Learning-HTML-CSS"><strong>Learning HTML and CSS </strong></a></li> 
-  <li>🧑🏻‍💻 Ask me about <strong>C, Python, HTML and CSS, Figma, Networking </strong></li>
+  <li>🧑🏻‍💻 Ask me about: <strong> C, Python, HTML and CSS, Figma, Networking </strong></li>
   <li>🗣️ How to reach me: <a href="mailto:oclaritremar25@gmail.com">oclaritremar25@gmail.com</a></li>
   <li>💥 Know about my experiences: <a href="https://drive.google.com/drive/folders/1NTEWjaEGll3UfJCqa3J_6OZcm9KgJLQd?usp=sharing" target="_blank"> My Resume</a></li>
 </ul>
