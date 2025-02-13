@@ -36,6 +36,9 @@ A JavaFX-based app for tracking income and expenses. Users can add transactions 
 <a href="https://github.com/Ramiruuu/Cryptex-Vault">🔒 - Cryptex Vault</a>:
 Cryptex Vault is a simple tool to protect your text and files by encrypting and decrypting them. It uses a secure encryption method to keep your data safe.
 
+
+<h4 align="center"> Here are some of my personal projects that showcase my skills in programming and software development. These projects were built to solve practical problems while enhancing my understanding </h4>
+
 ## 🔗 Connect with me:
 
 <p align="left" style="display: flex; gap: 10px;">
