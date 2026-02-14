@@ -1,30 +1,52 @@
 <div align="center" >
   
 <!-- Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=Remar%20%Gonzaga%20Oclarit&textBg=false&fontSize=55&desc=Web%20Developer%20|%20Networking%20Enthusiast%20|%20Aspiring%20Red%20Teamer&descSize=15&reversal=false&stroke=19183B&strokeWidth=2" >
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Ramiruuu&reversal=false&section=header&descSize=20&fontColor=C40C0C&desc=Aspiring%20Red%20Teamer&fontAlignY=31">
   
   <!-- Giphy -->
-  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?      cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?      cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ramiruuu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ramiruuu?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ramiruuu?label=Total%20Stars&style=for-the-badge&color=blueviolet" alt="Stars"/>
-</p>
+## 🌐 Social Medias
+
+<div align="center">
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Resume-A855F7?style=for-the-badge" alt="Resume"/>
+</a>
+
+<a href="https://discord.gg/REaWBdkw" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="https://www.facebook.com/mar.374322/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/oclarit-remar-986828350" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:oclaritremar25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+
 </div>
 
-<h3 align="left">Introduction</h3>
-<p>Web Developer | Programmer | IT Enthusiast | Lifelong Learner</p> 
-
-<ul>
-  <li>🧩 BSIT, University of Science and Technology of Southern Philippines, Cagayan De Oro City </li>
-  <li>🌱 Currently learning <strong> HTML, CSS, JavaScript, <strong>C, Python, Java </strong></li>
-  <li>🔥 Currently Working on: <a href="https://github.com/Ramiruuu/Learning-HTML-CSS"><strong>Learning HTML and CSS </strong></a></li> 
-  <li>🧑🏻‍💻 Ask me about: <strong> C, Python, HTML and CSS, Figma, Networking </strong></li>
-  <li>🗣️ How to reach me: <a href="mailto:oclaritremar25@gmail.com">oclaritremar25@gmail.com</a></li>
-  <li>💥 Know about my experiences: <a href="https://drive.google.com/drive/folders/1NTEWjaEGll3UfJCqa3J_6OZcm9KgJLQd?usp=sharing" target="_blank"> My Resume</a></li>
-</ul>
-
+## About Me
+```javascript
+const Ramiruuu = {
+    pronouns: "he" | "him",
+    location: "Cagayan de Oro 🇵🇭",
+    education: {
+        degree: "BS Information Technology",
+    },
+    currentlyWorking: "IShield",
+    askMeAbout: [
+        "Cybersecurity",
+        "Networking",
+    ],
+    motto: "Code, break, learn, repeat 🔄",
+};
+```
+</div>
+<br clear="right"/>
 
 ## Technologies Stacks
 <div align="center">
@@ -39,79 +61,12 @@
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 </div>
 
-## 💼 My Experiences
-
-Explore my professional experiences on [LinkedIn](https://www.linkedin.com/in/oclarit-remar-986828350).
-
 <h4 align="center">Explore my journey, skills, and all the awesome projects I've worked on!</h4>
-
-## 🎯 Projects
-
-<a href="https://github.com/Ramiruuu/TaskManagerGUI">📝 - TaskManagerGUI</a>:
-The program allows users to create tasks with detailed descriptions. Users can mark tasks as completed and delete them as needed. Visual indicators distinguish between completed and pending tasks, helping users keep track of their progress.
-
-<a href="https://github.com/Ramiruuu/Simple-Banking-System-">🏦 - Simple Banking System</a>:
-A program that lets users check their balance, deposit money, and withdraw funds with a daily limit. It allows users to view their transaction history and is secured by PIN-based authentication for user protection.
-
-<a href="https://github.com/Ramiruuu/FinancialAppTracker">💰 - Financial Tracker</a>:
-A JavaFX-based app for tracking income and expenses. Users can add transactions and categorize them as income or expense. The app provides a summary of total income, expenses, and balance. The data is displayed in a table with an easy-to-use interface.
-
-<a href="https://github.com/Ramiruuu/Cryptex-Vault">🔒 - Cryptex Vault</a>:
-Cryptex Vault is a simple tool to protect your text and files by encrypting and decrypting them. It uses a secure encryption method to keep your data safe.
-
-
-<h4 align="center"> Here are some of my personal projects that showcase my skills in programming and software development. These projects were built to solve practical problems while enhancing my understanding </h4>
-
-## Github Trophies
-<img src="https://github-trophies.vercel.app/?username=Ramiruuu&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15%22%20alt=%22GitHub%20Trophies%22">
-
-## 🔗 Connect with me:
-
-<p align="left" style="display: flex; gap: 10px;">
-  
-  <a href="https://www.linkedin.com/in/oclarit-remar-986828350/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=61551327145190" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-
-  <a href="https://www.instagram.com/lluv.ramiruuu/?igsh=ZnZqYXUyNm9qN25p#" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a>
-</p>
 
 <h4 align="center">Let's connect and share knowledge, ideas, and inspiration. I'm always open to exciting opportunities!</h4>
 
-<h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
-<h1 align="center">Random Shits</h1>
-<div align="center">
-
-<h4 align="center">If this section doesn't load, just hit refresh and let's keep the energy flowing!</h1>
-
-## 🌐 Social Media
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/REaWBdkw)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61551327145190)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lluv.ramiruuu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oclarit-remar-986828350)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/5Ae3WgFek)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@ilymyally?_t=ZS-8tqZTHTUkqu&_r=1)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@animixdotkom)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oclaritremar01@gmail.com)
-
-# 📊 GitHub Stats:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramiruuu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramiruuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramiruuu&theme=dark&hide_border=false)<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiruuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ramiruuu&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&reversal=false&section=footer&strokeWidth=9">
 
 ## ✨ You can help me by Donating 
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/oclaritremar)
