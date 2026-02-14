@@ -1,8 +1,17 @@
-<h1 align="center">𝗥𝗮𝗺𝗶𝗿𝘂𝘂𝘂</h1>
-<h3 align="center">⚡ Forever Evolving in the World of IT ⚡</h3>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div align="center" >
+  
+<!-- Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=Remar%20%Gonzaga%20Oclarit&textBg=false&fontSize=55&desc=Web%20Developer%20|%20Networking%20Enthusiast%20|%20Aspiring%20Red%20Teamer&descSize=15&reversal=false&stroke=19183B&strokeWidth=2" >
+  
+  <!-- Giphy -->
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?      cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramiruuu&label=Profile%20views&color=0e75b6&style=flat" alt="Ramiruuu" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ramiruuu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ramiruuu?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ramiruuu?label=Total%20Stars&style=for-the-badge&color=blueviolet" alt="Stars"/>
+</p>
+</div>
 
 <h3 align="left">Introduction</h3>
 <p>Web Developer | Programmer | IT Enthusiast | Lifelong Learner</p> 
@@ -15,6 +24,20 @@
   <li>🗣️ How to reach me: <a href="mailto:oclaritremar25@gmail.com">oclaritremar25@gmail.com</a></li>
   <li>💥 Know about my experiences: <a href="https://drive.google.com/drive/folders/1NTEWjaEGll3UfJCqa3J_6OZcm9KgJLQd?usp=sharing" target="_blank"> My Resume</a></li>
 </ul>
+
+
+## Technologies Stacks
+<div align="center">
+<!-- Animated Icons -->
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+</div>
 
 ## 💼 My Experiences
 
@@ -39,6 +62,9 @@ Cryptex Vault is a simple tool to protect your text and files by encrypting and 
 
 <h4 align="center"> Here are some of my personal projects that showcase my skills in programming and software development. These projects were built to solve practical problems while enhancing my understanding </h4>
 
+## Github Trophies
+<img src="https://github-trophies.vercel.app/?username=Ramiruuu&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15%22%20alt=%22GitHub%20Trophies%22">
+
 ## 🔗 Connect with me:
 
 <p align="left" style="display: flex; gap: 10px;">
@@ -57,14 +83,6 @@ Cryptex Vault is a simple tool to protect your text and files by encrypting and 
 </p>
 
 <h4 align="center">Let's connect and share knowledge, ideas, and inspiration. I'm always open to exciting opportunities!</h4>
-
-
-<p align="center">
-  <h2> 🛠️ Languages & Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,mysql,figma,github,kali,pycharm,vscode,wordpress,linux,typescript,discord,gmail,php,  &perline=7" />
-  </a>
-</p>
 
 <h1 align="center">⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻</h1>
 <h1 align="center">Random Shits</h1>
