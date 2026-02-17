@@ -65,8 +65,8 @@ const Ramiruuu = {
 
 <h4 align="center">Let's connect and share knowledge, ideas, and inspiration. I'm always open to exciting opportunities!</h4>
 
-<!-- footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&reversal=false&section=footer&strokeWidth=9">
-
 ## ✨ You can help me by Donating 
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/oclaritremar)
+
+  <!-- footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&reversal=false&section=footer&strokeWidth=9">
