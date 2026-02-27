@@ -1,9 +1,4 @@
 ![Header](./github-header-banner.png)
-
-<div align="center" >
-  
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Ramiruuu&reversal=false&section=header&descSize=20&fontColor=C40C0C&desc=Aspiring%20Red%20Teamer&fontAlignY=31">
   
   <!-- Giphy -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?      cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
