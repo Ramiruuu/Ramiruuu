@@ -1,5 +1,17 @@
 ![Header](./github-header-banner.png)
-  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+<h2 align="center"> Gonna figure out something over time </h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F72609&width=435&lines=Aspiring+Networking+Engineer;Cybersecurity+Analyst+;and;Red+Teamer" alt="Typing SVG" /></a>
+</div>
+
   <!-- Giphy -->
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif?      cid=ecf05e475uochohj3sm51hxit1cz6hx2swb2rx4yw49m6w6a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -26,6 +38,7 @@
 
 </div>
 
+
 ## About Me
 ```javascript
 const Ramiruuu = {
@@ -42,7 +55,7 @@ const Ramiruuu = {
     motto: "Code, break, learn, repeat 🔄",
 };
 ```
-</div>
+
 <br clear="right"/>
 
 ## Technologies Stacks
