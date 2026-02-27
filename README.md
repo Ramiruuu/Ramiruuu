@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F72609&width=435&lines=Aspiring+Networking+Engineer;Cybersecurity+Analyst+;and;Red+Teamer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7190C&center=true&width=435&lines=Aspiring+Networking+Engineer;Information+Technology" alt="Typing SVG" /></a>
 </div>
 
   <!-- Giphy -->
